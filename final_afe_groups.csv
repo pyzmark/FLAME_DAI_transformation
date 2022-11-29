@@ -1,0 +1,168 @@
+,group_id,name,afe_find_id,mint,denomination,start_year,end_year,ruler,num_coins,coin_group_id,created,imported,owner,metal
+0,0,"Altenhausen Lkr. Börde, Altenhausen I",222,Antioch,solidus,364,367,Valentinianus I.,1,AFE-1,11-28-2022,11-28-2022,DAI,gold
+1,1,"Altkönig, Altkönig",2259,Lugdunensium,siliqua,407,408,Constantinus III.,1,AFE-2,11-28-2022,11-28-2022,DAI,silver
+2,2,"Arnstadt, Arnstadt Fundgattung unsicher",2405,Unknown (Germany),follis,337,341,Constantius II.,1,AFE-3,11-28-2022,11-28-2022,DAI,bronze
+3,3,"Arnstadt, Arnstadt Fundgattung unsicher",2405,Unknown (Germany),follis,345,347,Constantius II.,1,AFE-4,11-28-2022,11-28-2022,DAI,bronze
+4,4,"Arnstadt, Arnstadt Fundgattung unsicher",2405,Unknown (Germany),follis,348,361,Constantius II.,1,AFE-5,11-28-2022,11-28-2022,DAI,bronze
+5,5,"Arnstadt, Arnstadt Fundgattung unsicher",2405,Siscia,follis,335,336,Constantius II.,1,AFE-6,11-28-2022,11-28-2022,DAI,bronze
+7,7,"Babke Lkr. Mecklenburgische Seenplatte, Babke 3TypeFEL TEMP REPARATIO FH",3301,Constantinople,follis,354,358,Constantius II.,1,AFE-8,11-28-2022,11-28-2022,DAI,bronze
+9,9,"Babke Lkr. Mecklenburgische Seenplatte, Babke 3TypeGLORIA EXERCITVS 1 Fz",3301,Unknown (Germany),follis,335,340,Constantinus I. || Constantinsöhne,1,AFE-10,11-28-2022,11-28-2022,DAI,bronze
+10,10,"Bad Sulza, Bad Sulz",2399,Bad Sulza,follis,337,341,"ConstansDate337-341BibliographyFMRD X / XIII, Die Fundmünzen der Römischen Zeit in Deutschland. Abteilung X Sachsen-Anhalt. Abteilung XIII Thüringen (Berlin 2003), XIII 1001, 17 
+
+
+
+
+                Export CSV
+            
+
+
+
+    URL: http://afe.dainst.org/coin?afeid=11443
+
+
+
+
+
+
+
+
+
+
+
+
+
+",1,AFE-11,11-28-2022,11-28-2022,DAI,bronze
+11,11,"Bad Sulza, Bad Sulz",2399,Bad Sulza,follis,337,341,"Constantius II.Date337-341BibliographyFMRD X / XIII, Die Fundmünzen der Römischen Zeit in Deutschland. Abteilung X Sachsen-Anhalt. Abteilung XIII Thüringen (Berlin 2003), XIII 1001, 18 
+
+
+
+
+                Export CSV
+            
+
+
+
+    URL: http://afe.dainst.org/coin?afeid=11444
+
+
+
+
+
+
+
+
+
+
+
+
+
+",1,AFE-12,11-28-2022,11-28-2022,DAI,bronze
+14,14,"Bad Sulza, Bad Sulz",2399,Colonia Augusta Treverorum,follis,330,331,Constantinus I.,2,AFE-15,11-28-2022,11-28-2022,DAI,bronze
+15,15,"Bad Sulza, Bad Sulz",2399,Colonia Augusta Treverorum,follis,347,347,Constantius II.,1,AFE-16,11-28-2022,11-28-2022,DAI,bronze
+17,17,"Beeckerwerth, Beeckerwert",2313,Colonia Augusta Treverorum,solidus,351,353,Magnentius,1,AFE-18,11-28-2022,11-28-2022,DAI,gold
+19,19,"Berlin-Friedrichshagen, Berlin-FriedrichshagenTypeGLORIA EXERCITVS 2 Fz",745,Unknown (Germany),follis,330,335,Constantinus I.,1,AFE-20,11-28-2022,11-28-2022,DAI,bronze
+20,20,"Bückeburg, Bückeburg Hortfund I",1965,Unknown (Germany),solidus,364,375,Valentinianus I.,1,AFE-21,11-28-2022,11-28-2022,DAI,gold
+21,21,"Bückeburg, Bückeburg Hortfund I",1965,Unknown (Germany),solidus,364,378,Valens,1,AFE-22,11-28-2022,11-28-2022,DAI,gold
+22,22,"Deersheim Lkr. Harz, Deersheim ",221,Unknown (Germany),solidus,394,402,Honorius,1,AFE-23,11-28-2022,11-28-2022,DAI,gold
+24,24,"Demern Lkr. Nordwestmecklenburg, Demer",214,Constantinople,solidus,430,440,Theodosius II.,1,AFE-25,11-28-2022,11-28-2022,DAI,gold
+25,25,"Divitz Lkr. Vorpommern-Rügen, Divit",212,Constantinople,solidus,430,440,Theodosius II.,1,AFE-26,11-28-2022,11-28-2022,DAI,gold
+26,26,"Eckolstädt, Eckolstäd",2400,Constantinople,solidus,462,473,Leo I.,1,AFE-27,11-28-2022,11-28-2022,DAI,gold
+27,27,"Erfurt Innenstadt, Erfurt Innenstadt Grabfund",3163,Unknown (Germany),tremissis,527,565,Iustinianus I.,1,AFE-28,11-28-2022,11-28-2022,DAI,silver
+28,28,"Erfurt-Bischleben, Erfurt-Bischleben Grabfunde",3166,Constantinople,tremissis,527,565,Iustinianus I.,1,AFE-29,11-28-2022,11-28-2022,DAI,silver
+29,29,"Erfurt-Bischleben, Erfurt-Bischleben Grabfunde",3166,Unknown (Germany),solidus,527,565,Iustinianus I.,1,AFE-30,11-28-2022,11-28-2022,DAI,gold
+30,30,"Erfurt-Bischleben, Erfurt-Bischleben Hortfund",3165,Unknown (Germany),uncertain (bronze),337,361,Constantius II.,1,AFE-31,11-28-2022,11-28-2022,DAI,bronze
+31,31,"Erfurt-Bischleben, Erfurt-Bischleben Hortfund",3165,Unknown (Germany),follis,337,340,Constantinus II.,1,AFE-32,11-28-2022,11-28-2022,DAI,bronze
+33,33,"Fehmarn Lkr. Ostholstein, Fehmarn II Schatzfund",1050,Kyzikos,follis,337,341,Constans,1,AFE-34,11-28-2022,11-28-2022,DAI,bronze
+35,35,"Fehmarn Lkr. Ostholstein, Fehmarn III Schatzfund",4004,Ravenna,10 nummi,562,563,Iustinianus I.,1,AFE-36,11-28-2022,11-28-2022,DAI,10 nummi
+36,36,"Fehmarn Lkr. Ostholstein, Fehmarn III Schatzfund",4004,Sicily,follis,630,631,Heraclius,1,AFE-37,11-28-2022,11-28-2022,DAI,bronze
+37,37,"Fehmarn Lkr. Ostholstein, Fehmarn III Schatzfund",4004,Unknown (Greater Syria),follis,659,668,Constans II. || Heraclius,1,AFE-38,11-28-2022,11-28-2022,DAI,bronze
+38,38,"Fehmarn Lkr. Ostholstein, Fehmarn III Schatzfund",4004,Unknown (Greater Syria),follis,681,685,Konstantinos IV.,1,AFE-39,11-28-2022,11-28-2022,DAI,bronze
+39,39,"Fredenbeck Lkr. Stade, Fredenbec",3996,Siscia,2 solidi,342,342,Constans,1,AFE-40,11-28-2022,11-28-2022,DAI,gold
+40,40,"Gorsleben, Gorslebe",3050,Unknown (Germany),follis,330,337,Constantinus I.,1,AFE-41,11-28-2022,11-28-2022,DAI,bronze
+41,41,"Gorsleben, Gorsleben unsichere Angaben",3051,Unknown (Germany),solidus,400,599,Nicht näher zuweisbar,1,AFE-42,11-28-2022,11-28-2022,DAI,gold
+42,42,"Gotha, Umgebung von Goth",3074,Constantinople,solidus,475,476,Basiliscus,1,AFE-43,11-28-2022,11-28-2022,DAI,gold
+43,43,"Grossbodungen, Grossbodungen Hortfund",3158,Antioch,solidus,364,367,Valentinianus I.,1,AFE-44,11-28-2022,11-28-2022,DAI,gold
+44,44,"Grossbodungen, Grossbodungen Hortfund",3158,Constantinople,solidus,383,383,Valentinianus II.,1,AFE-45,11-28-2022,11-28-2022,DAI,gold
+45,45,"Grossbodungen, Grossbodungen Hortfund",3158,Lugdunensium,solidus,407,408,Constantinus III.,2,AFE-46,11-28-2022,11-28-2022,DAI,gold
+46,46,"Grossbodungen, Grossbodungen Hortfund",3158,Lugdunensium,solidus,408,411,Constantinus III.,1,AFE-47,11-28-2022,11-28-2022,DAI,gold
+47,47,"Grossbodungen, Grossbodungen Hortfund",3158,Mediolanum,solidus,378,387,Theodosius I.,1,AFE-48,11-28-2022,11-28-2022,DAI,gold
+48,48,"Grossbodungen, Grossbodungen Hortfund",3158,Mediolanum,solidus,394,402,Arcadius,5,AFE-49,11-28-2022,11-28-2022,DAI,gold
+49,49,"Grossbodungen, Grossbodungen Hortfund",3158,Mediolanum,solidus,394,402,Honorius,3,AFE-50,11-28-2022,11-28-2022,DAI,gold
+50,50,"Grossbodungen, Grossbodungen Hortfund",3158,Ravenna,solidus,402,403,Honorius,4,AFE-51,11-28-2022,11-28-2022,DAI,gold
+51,51,"Grossbodungen, Grossbodungen Hortfund",3158,Colonia Augusta Treverorum,solidus,350,351,Magnentius,1,AFE-52,11-28-2022,11-28-2022,DAI,gold
+52,52,"Grossbodungen, Grossbodungen Hortfund",3158,Colonia Augusta Treverorum,solidus,408,411,Constantinus III.,2,AFE-53,11-28-2022,11-28-2022,DAI,gold
+53,53,"Grossengottern, Grossengotter",3109,Roma,denarius,600,699,Hadrianus,1,AFE-54,11-28-2022,11-28-2022,DAI,silver
+54,54,"Grossengottern, GrossengotternTypePROVIDENTIAE AVG",3109,Unknown (Germany),follis,325,328,Constantinus I.,1,AFE-55,11-28-2022,11-28-2022,DAI,bronze
+55,55,"Großenbaum, Großenbaum Hortfund",2314,Siscia,solidus,337,340,Constantinus II.,1,AFE-56,11-28-2022,11-28-2022,DAI,gold
+56,56,"Großenbaum, Großenbaum Hortfund",2314,Colonia Augusta Treverorum,solidus,337,340,Constantius II.,1,AFE-57,11-28-2022,11-28-2022,DAI,gold
+57,57,"Gädebehn Lkr. Ludwigslust-Parchim, Gädebehn Fpl. 1",3807,Unknown (Germany),AE3 (2.58g),330,383,Nicht näher zuweisbar,1,AFE-58,11-28-2022,11-28-2022,DAI,bronze
+58,58,"Gädebehn Lkr. Ludwigslust-Parchim, Gädebehn Fpl. 10TypeGLORIA ROMANORV",3807,Unknown (Germany),AE3 (2.58g),364,378,Valentinianus I. || Valens || Gratianus,1,AFE-59,11-28-2022,11-28-2022,DAI,bronze
+59,59,"Gützkow Lkr. Vorpommern-Greifswald, Gützkow, Fpl. 76 Hortfund",3725,Ravenna,solidus,402,403,Honorius,2,AFE-60,11-28-2022,11-28-2022,DAI,gold
+60,60,"Gützkow Lkr. Vorpommern-Greifswald, Gützkow, Fpl. 76 Hortfund",3725,Ravenna,solidus,426,455,Valentinianus III.,2,AFE-61,11-28-2022,11-28-2022,DAI,gold
+61,61,"Gützkow Lkr. Vorpommern-Greifswald, Gützkow, Fpl. 76 Hortfund",3725,Roma,solidus,462,462,Libius Severus,1,AFE-62,11-28-2022,11-28-2022,DAI,gold
+62,62,"Heldrungen, Heldrunge",3054,Constantinople,solidus,442,443,Theodosius II.,1,AFE-63,11-28-2022,11-28-2022,DAI,gold
+63,63,"Holscha Lkr. Bautzen, Holscha suspekt",876,Unknown (Germany),follis,337,361,Constantius II.,1,AFE-64,11-28-2022,11-28-2022,DAI,bronze
+65,65,"Jena, Jen",3190,Lugdunensium,follis,378,383,Gratianus,1,AFE-66,11-28-2022,11-28-2022,DAI,bronze
+66,66,"Kittendorf Lkr. Mecklenburgische Seenplatte, Kittendor",216,Constantinople,solidus,476,491,Zeno,1,AFE-67,11-28-2022,11-28-2022,DAI,gold
+67,67,"Kitzen Lkr. Leipzig , Kitze",3390,Arelato,follis,326,327,Constantinus I.,1,AFE-68,11-28-2022,11-28-2022,DAI,bronze
+68,68,"Kleinschwabhausen, Kleinschwabhause",3154,Heraclea,follis,351,355,Constantius II.,1,AFE-69,11-28-2022,11-28-2022,DAI,bronze
+70,70,"Knauthain Stadtteil von Leipzig, Leipzig-Knauthai",980,Siscia,follis,330,333,Constantinus I.,1,AFE-71,11-28-2022,11-28-2022,DAI,bronze
+71,71,"Köstitz, Köstit",3180,Roma,solidus,404,404,Honorius,1,AFE-72,11-28-2022,11-28-2022,DAI,gold
+73,73,"Laatzen, Laatzen Schatzfund",203,Arelato,reduced siliqua,355,363,Constantius II.,1,AFE-74,11-28-2022,11-28-2022,DAI,silver
+74,74,"Laatzen, Laatzen Schatzfund",203,Constantinople,miliarensis,351,355,Constantius II.,1,AFE-75,11-28-2022,11-28-2022,DAI,silver
+75,75,"Laatzen, Laatzen Schatzfund",203,Unknown (Germany),uncertain (silver),353,360,Constantinus II.,1,AFE-76,11-28-2022,11-28-2022,DAI,silver
+76,76,"Laatzen, Laatzen Schatzfund",203,Lugdunensium,miliarensis,360,363,Iulianus II.,1,AFE-77,11-28-2022,11-28-2022,DAI,silver
+77,77,"Luckenwalde Lkr. Teltow-Fläming, Luckenwalde II Kollektivfund",2485,Unknown (Germany),follis,333,350,Constantinus I. || Constans,1,AFE-78,11-28-2022,11-28-2022,DAI,bronze
+78,78,"Löbau Lkr. Görlitz, Wendisch-PaulsdorfTypeGLORIA ROMANORV",3376,Unknown (Germany),AE3 (2.58g),364,375,Valentinianus I.,1,AFE-79,11-28-2022,11-28-2022,DAI,bronze
+80,80,"Lübtheen Lkr. Ludwigslust-Parchim, Lübtheen II",809,Unknown (Germany),follis,337,341,Constantius II.,1,AFE-81,11-28-2022,11-28-2022,DAI,bronze
+81,81,"Lübtheen Lkr. Ludwigslust-Parchim, Lübtheen II",809,Colonia Augusta Treverorum,follis,337,341,Constantius II.,1,AFE-82,11-28-2022,11-28-2022,DAI,bronze
+82,82,"Lützeroda, Lützerod",3176,Alexandria ad Aegyptum,follis,351,355,Constantius II.,1,AFE-83,11-28-2022,11-28-2022,DAI,bronze
+83,83,"Maua, Mau",3177,Aquileia,follis,337,341,Constantinus II.,1,AFE-84,11-28-2022,11-28-2022,DAI,bronze
+85,85,"Mecklenburg, Mecklenburg",826,Thessalonika,follis,326,328,Constantinus I.,1,AFE-86,11-28-2022,11-28-2022,DAI,bronze
+86,86,"Meißen, Lerch",3380,Unknown (Germany),AE3 (2.58g),395,401,Arcadius,2,AFE-87,11-28-2022,11-28-2022,DAI,bronze
+87,87,"Meißen, Lercha Siedlung",3381,Constantinople,follis,330,335,Constantinus I.,1,AFE-88,11-28-2022,11-28-2022,DAI,bronze
+88,88,"Meuselwitz, Meuselwit",3170,Ravenna,solidus,426,455,Valentinianus III.,1,AFE-89,11-28-2022,11-28-2022,DAI,gold
+89,89,"Milz, Mil",3211,Aquileia,follis,337,340,Constantius II.,1,AFE-90,11-28-2022,11-28-2022,DAI,bronze
+90,90,"Mühlberg, Mühlberg Fp. 14",3080,Colonia Augusta Treverorum,follis,330,335,Constantinus I.,1,AFE-91,11-28-2022,11-28-2022,DAI,bronze
+91,91,"Mühlhausen/Thüringen, Mühlhausen/Thüringen Grabfunde",3118,Constantinople,solidus,491,518,Anastasius I.,1,AFE-92,11-28-2022,11-28-2022,DAI,gold
+92,92,"Mühlhausen/Thüringen, Mühlhausen/Thüringen Grabfunde",3118,Mediolanum,solidus,394,402,Honorius,1,AFE-93,11-28-2022,11-28-2022,DAI,gold
+93,93,"Müritzgebiet, Müritzgebiet - Fundort unbekann",860,Colonia Augusta Treverorum,solidus,353,355,Constantius II.,1,AFE-94,11-28-2022,11-28-2022,DAI,gold
+94,94,"Nauleis Lkr. Meißen, Naulei",899,Siscia,follis,347,347,Constantius II.,1,AFE-95,11-28-2022,11-28-2022,DAI,bronze
+95,95,"Neubrandenburg Lkr. Mecklenburgischen Seenplatte, Neubrandenburg II",864,Roma,solidus,425,426,Valentinianus III.,1,AFE-96,11-28-2022,11-28-2022,DAI,gold
+96,96,"Neunheilingen, Neunheilinge",3103,Lugdunensium,follis,330,331,Constantinus I.,1,AFE-97,11-28-2022,11-28-2022,DAI,bronze
+97,97,"Niebüll Lkr. Nordfriesland, Niebüll Schatzfund",1038,Unknown (Germany),follis,350,353,Magnentius,1,AFE-98,11-28-2022,11-28-2022,DAI,bronze
+99,99,"Niebüll Lkr. Nordfriesland, Niebüll SchatzfundTypeGLORIA EXERCITVS 2 Fz",1038,Lugdunensium,follis,330,335,Constantinus I.,1,AFE-100,11-28-2022,11-28-2022,DAI,bronze
+100,100,"Oberheldrungen, Oberheldrunge",3055,Unknown (Germany),AE3 (2.58g),353,361,Constantius II.,1,AFE-101,11-28-2022,11-28-2022,DAI,bronze
+101,101,"Oberheldrungen, OberheldrungenTypeGLORIA EXERCITVS 2 Fz",3055,Unknown (Germany),follis,330,335,Constantinus I.,1,AFE-102,11-28-2022,11-28-2022,DAI,bronze
+102,102,"Plau Lkr. Ludwigslust-Parchim, Plau Fpl. 125TypeQuadrig",3878,Unknown (Germany),follis,337,340,Constantinsöhne,1,AFE-103,11-28-2022,11-28-2022,DAI,bronze
+105,105,"Quedlinburg Lkr. Harz, Quedlinburg I",435,Colonia Augusta Treverorum,follis,347,348,Constans,1,AFE-106,11-28-2022,11-28-2022,DAI,bronze
+106,106,"Quedlinburg Lkr. Harz, Quedlinburg I",3778,Constantinople,tremissis,527,565,Iustinianus I.,1,AFE-107,11-28-2022,11-28-2022,DAI,silver
+107,107,"Radeberg Lkr. Bautzen, Radeberg suspekt",884,Unknown (Germany),follis,330,337,Constantius II.,2,AFE-108,11-28-2022,11-28-2022,DAI,bronze
+108,108,"Radewitz Lkr. Vorpommern-Greifswald, Radewit",218,Constantinople,solidus,476,491,Zeno,1,AFE-109,11-28-2022,11-28-2022,DAI,gold
+109,109,"Raguth Lkr. Ludwigslust-Parchim, Raguth Fpl. 5 Hortfund",3291,Roma,denarius,600,699,Hadrianus,1,AFE-110,11-28-2022,11-28-2022,DAI,silver
+110,110,"Reisdorf, ReisdorfTypeGLORIA EXERCITVS 2 Fz",2403,Colonia Augusta Treverorum,follis,330,335,Constantinus I.,1,AFE-111,11-28-2022,11-28-2022,DAI,bronze
+111,111,"Schlotheim, Bei Schlothei",3123,Unknown (Germany),uncertain (bronze),337,361,Constantius II.,1,AFE-112,11-28-2022,11-28-2022,DAI,bronze
+112,112,"Schmalstede Lkr. Rendsburg-Eckernförde, Schmalstede I Brandgrab 134",3720,Unknown (Germany),siliqua,378,392,Valentinianus II.,1,AFE-113,11-28-2022,11-28-2022,DAI,silver
+113,113,"Schmalstede Lkr. Rendsburg-Eckernförde, Schmalstede II Brandgrab 136",201,Unknown (Germany),siliqua,360,363,Iulianus II.,1,AFE-114,11-28-2022,11-28-2022,DAI,silver
+115,115,"Seebergen, Seeberge",3085,Colonia Augusta Treverorum,follis,347,347,Constans,1,AFE-116,11-28-2022,11-28-2022,DAI,bronze
+116,116,"Sonneborn, Sonnebor",3086,Colonia Augusta Treverorum,follis,330,331,Constantinus I.,1,AFE-117,11-28-2022,11-28-2022,DAI,bronze
+117,117,"Sonneborn, Sonnebor",3086,Colonia Augusta Treverorum,follis,600,699,Constantinus I.,1,AFE-118,11-28-2022,11-28-2022,DAI,bronze
+119,119,"Striesen Ot. von Dresden, Striesen Hortfund",939,Alexandria ad Aegyptum,follis,347,347,Constans,1,AFE-120,11-28-2022,11-28-2022,DAI,bronze
+120,120,"Striesen Ot. von Dresden, Striesen Hortfund",939,Arelato,follis,347,347,Constantius II.,1,AFE-121,11-28-2022,11-28-2022,DAI,bronze
+121,121,"Striesen Ot. von Dresden, Striesen Hortfund",939,Kyzikos,follis,347,347,Constans,1,AFE-122,11-28-2022,11-28-2022,DAI,bronze
+122,122,"Striesen Ot. von Dresden, Striesen Hortfund",939,Heraclea,follis,347,347,Constantius II.,1,AFE-123,11-28-2022,11-28-2022,DAI,bronze
+123,123,"Striesen Ot. von Dresden, Striesen Hortfund",939,Unknown (Germany),follis,340,348,Constans,1,AFE-124,11-28-2022,11-28-2022,DAI,bronze
+125,125,"Striesen Ot. von Dresden, Striesen Hortfund",939,Colonia Augusta Treverorum,follis,337,341,Constans,1,AFE-126,11-28-2022,11-28-2022,DAI,bronze
+126,126,"Striesen Ot. von Dresden, Striesen Hortfund",939,Colonia Augusta Treverorum,follis,347,348,Constans,1,AFE-127,11-28-2022,11-28-2022,DAI,bronze
+127,127,"Sömmerda, Sömmerd",3142,Unknown (Germany),follis,337,340,Constantinsöhne,1,AFE-128,11-28-2022,11-28-2022,DAI,bronze
+129,129,"Toitin Lkr. Vorpommern-Greifswald , Toitin Fpl. 28",3690,Mediolanum,siliqua,395,402,Honorius,1,AFE-130,11-28-2022,11-28-2022,DAI,silver
+130,130,"Vieselbach, Vieselbac",3066,Arelato,follis,378,383,Gratianus,1,AFE-131,11-28-2022,11-28-2022,DAI,bronze
+131,131,"Wachtendonk, bei Wachtendonk",3833,Constantinople,solidus,475,476,Basiliscus,1,AFE-132,11-28-2022,11-28-2022,DAI,gold
+132,132,"Wandersleben, Wanderslebe",3090,Constantinople,follis,342,342,Constantius II.,1,AFE-133,11-28-2022,11-28-2022,DAI,bronze
+134,134,"Weimar, Weimar Grabfunde",3169,Unknown (Germany),solidus,474,491,Zeno,1,AFE-135,11-28-2022,11-28-2022,DAI,gold
+135,135,"Weimar, Weimar Grabfunde",3169,Mediolanum,solidus,383,393,Theodosius I.,1,AFE-136,11-28-2022,11-28-2022,DAI,gold
+136,136,"Weimar, Weimar Grabfunde",3169,Mediolanum,tremissis,476,491,Zeno,1,AFE-137,11-28-2022,11-28-2022,DAI,silver
+137,137,"Weimar, Weimar Grabfunde",3169,Ravenna,solidus,426,455,Valentinianus III.,1,AFE-138,11-28-2022,11-28-2022,DAI,gold
+138,138,"Zittau Lkr. Görlitz, Zittau ",927,Unknown (Germany),follis,337,346,Constantius II.,1,AFE-139,11-28-2022,11-28-2022,DAI,bronze
+139,139,"Zittau Lkr. Görlitz, Zittau I",928,Siscia,follis,351,354,Constantius II.,1,AFE-140,11-28-2022,11-28-2022,DAI,bronze
+140,140,"Zwenkau Lkr. Leipzig, Zwenkau I",967,Thessalonika,follis,336,337,Constantinus I.,1,AFE-141,11-28-2022,11-28-2022,DAI,bronze
